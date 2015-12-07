@@ -1,2 +1,5 @@
 # elf-bot-docker
-test
+
+
+
+Just set the `HUBOT_SLACK_TOKEN` environment variable and away you go.
